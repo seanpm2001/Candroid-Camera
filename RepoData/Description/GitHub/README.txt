@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Candroid Camera is a camera app for Candroid. It is designed to replace the default Android camera application
